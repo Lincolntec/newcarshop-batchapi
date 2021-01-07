@@ -1,6 +1,7 @@
 package com.wordpress.carledwinti.newcarshop.batchapi.controller;
 
 import com.wordpress.carledwinti.newcarshop.batchapi.model.Carro;
+import com.wordpress.carledwinti.newcarshop.batchapi.service.CarroService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
